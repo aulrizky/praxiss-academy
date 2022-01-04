@@ -1,0 +1,2 @@
+﻿Get-CIMInstance Win32_OperatingSystem
+Select FreePhysicalMemory,TotalVisibleMemory

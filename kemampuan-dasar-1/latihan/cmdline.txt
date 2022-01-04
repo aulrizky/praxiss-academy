@@ -1,0 +1,21 @@
+cd- change directory
+cmd- open command prompt in powershell
+copy- copy item
+mkdir - make new directory
+ping - ping to the network
+type - display content of a file
+tree - show subdirectory from directory
+tracert - trace route
+help
+cls- clear screen
+hostname - show name of the computer
+find
+exit 
+del
+dir 
+move
+ren
+shutdown
+md
+gal
+cat
